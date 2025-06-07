@@ -32,7 +32,7 @@ Este proyecto permite procesar múltiples archivos de datos (`.csv`, `.json`, `.
 ```bash
 python -m venv venv
 source venv/bin/activate 
-# En Windows: venv\Scripts\activate
+En Windows: venv\Scripts\activate
 ```
 
 ## Instalá las dependencias:
