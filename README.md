@@ -5,7 +5,7 @@
 ├── modules/            # Módulos del proyecto
 │   ├── decoradores.py  # Decoradores para logging y manejo de errores
 │   └── procesador.py   # Procesamiento de archivos
-├── main.py            # Punto de entrada de la aplicación
+├── main.py            # Aplicación base
 ├── datos.db           # Base de datos SQLite
 └── requirements.txt   # Dependencias del proyecto
 ```
