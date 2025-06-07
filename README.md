@@ -59,4 +59,4 @@ Luis|25|Córdoba
 - pandas
 - sqlalchemy
 - openpyxl (para archivos Excel)
-## Incluidas en requirements.txt.
+*Incluidas en requirements.txt.*
