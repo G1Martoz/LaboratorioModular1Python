@@ -1,0 +1,3 @@
+id|product|price
+1|Book|10.5
+2|Pen|2.75
